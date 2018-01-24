@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Read the Docs Template'
-copyright = u'2014, Read the Docs'
+project = u'Lookit App Documentation'
+copyright = u'2018, Lookit LLC'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -171,7 +171,7 @@ html_static_path = ['_static']
 # contain a <link> tag referring to it.  The value of this option must be the
 # base URL from which the finished HTML is served.
 #html_use_opensearch = ''
-
+Read the Docs
 # This is the file name suffix for HTML files (e.g. ".xhtml").
 #html_file_suffix = None
 
